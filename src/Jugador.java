@@ -12,6 +12,8 @@ public class Jugador implements Serializable {
         setTipo(t);
     }
 
+    //geters y setters
+
     public int getPoder() {
         return poder;
     }
